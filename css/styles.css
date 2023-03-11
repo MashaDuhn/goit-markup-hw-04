@@ -230,6 +230,7 @@ body {
 }
 
 .iside-content-images {
+    max-width: 250px;
     background: #F4F4FD;
     border-radius: 4px;
     justify-content: center;
@@ -241,11 +242,11 @@ body {
 }
 
 .iside-imges {
-    max-width: 250px;
     align-items: center;
-
-
+    wight: 64px;
+    height: 64px;
 }
+
 
 .aside-text {
     font-size: 16px;
